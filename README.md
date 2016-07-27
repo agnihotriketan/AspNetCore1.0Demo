@@ -5,6 +5,7 @@ ASP.NET Core is a new open-source and cross-platform framework for building mode
 #Getting Started 
 
 1.Install .NET Core --https://microsoft.com/net/core
+
 2.Create a new .NET Core project:
 mkdir aspnetcoreapp
 cd aspnetcoreapp
