@@ -38,3 +38,16 @@ Browse to http://localhost:5000:
 * Open source and community focused
 
 For more info https://docs.asp.net/en/latest/intro.html
+
+#New Features of ASP.net Core
+
+1. Cross Platform Support
+2. MVC Tag Helpers
+2. Open Source
+3. Project.json
+4. Appsettings.json
+5. Startup.cs
+6. Grunt, Gulp and Bower
+7. Dependency Injection
+8. Single Programming model for MVC and Web API
+9. wwwroot folder and Static files
